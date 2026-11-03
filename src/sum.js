@@ -1,2 +1,2 @@
-/** Subtracts two numbers. */
-export const sum = (a, b) => a - b;
+/** Adds two numbers. */
+export const sum = (a, b) => a + b;
